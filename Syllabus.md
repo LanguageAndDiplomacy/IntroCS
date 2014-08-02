@@ -7,10 +7,13 @@
 
 **Class Email:** tealsteachers@gmail.com
 
+**Class Website:** something@github.io
 
 Days: Monday - Friday
+
 Time: 8:20 AM to 9:05 AM
-Room: 402
+
+Room: ?
 
 ### What to Expect: 
 
@@ -26,7 +29,8 @@ Classes will revolve around learning or reviewing a couple of key topics (~15 mi
 
 ### Class Rules: 
 
-* Attendance: 
+* Attendance: Lessons will be taught at the beginning of class so **please be on time**! The standard school attendance policy applies. 
+
 * Cheating: 
   - Looking up documentation online in **OK**
   - rainstorming with a friend is **OK**
