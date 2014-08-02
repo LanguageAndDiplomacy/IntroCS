@@ -1,6 +1,7 @@
+### The Basics: 
 
-### Instructors:
 
+#### Instructors:
 * Erica Greene and Brian Papa (Co-teachers)
 * Andy Lei and Han Qiu (TA's)
 * Nancy Juca (Language and Diplomacy Teacher)
@@ -9,7 +10,7 @@
 
 **Class Website:** something@github.io
 
-We meet Monday - Friday during 1st period (**8:20 AM - 9:05 AM**) in room ? 
+We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ? 
 
 ### What to Expect: 
 
