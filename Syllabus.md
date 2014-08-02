@@ -6,11 +6,10 @@
 * Nancy Juca (Language and Diplomacy Teacher)
 
 **Class Email:** tealsteachers@gmail.com
+
 **Class Website:** something@github.io
 
-**Days:** Monday - Friday
-**Time:** 8:20 AM to 9:05 AM
-**Room:** ?
+We meet Monday - Friday during 1st period (**8:20 AM - 9:05 AM**) in room ? 
 
 ### What to Expect: 
 
