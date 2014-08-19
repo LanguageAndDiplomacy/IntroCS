@@ -1,5 +1,7 @@
 #Flappy Bird
 
+![Flappy Bird][flappy.png]
+
 ## Overview
 The most annoying game in the world. This game pits you, a bird, against a maze of pipes. How many pipes can fly through? How many times can you play before you smash your computer?
 
