@@ -41,7 +41,7 @@ The detailed list for what we will use to grade your projects is below. Please r
 
 
 | Requirement                                                      | Points |
-|------------------------------------------------------------------|--------|
+|------------------------------------------------------------------|-------:|
 | *Variables*                                                      |        |
 | Current score, high score, and current speed displayed           | 5      |
 | Player score increments every time she flies through an obstacle | 10     |
