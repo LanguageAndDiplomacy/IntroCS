@@ -1,3 +1,6 @@
+## Syllabus - Intro CS
+======
+
 #### What to Expect: 
 
 In this class, you will:
