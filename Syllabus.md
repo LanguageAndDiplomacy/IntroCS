@@ -1,4 +1,4 @@
-### What to Expect: 
+#### What to Expect: 
 
 In this class, you will:
 
@@ -22,11 +22,11 @@ Classes will revolve around learning or reviewing a couple of key topics (~15 mi
 We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ? 
 
 
-### Class Rules: 
+#### Class Rules: 
 
-* Attendance: Lessons will be taught at the beginning of class so **please be on time**! The standard school attendance policy applies. 
+* **Attendance:** Lessons will be taught at the beginning of class so **please be on time**! The standard school attendance policy applies. 
 
-* Cheating: 
+* **Cheating:** 
   - Looking up documentation online in **OK**
   - rainstorming with a friend is **OK**
   - Having your friend teach you a new trick is **OK**
@@ -35,13 +35,14 @@ We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ?
   - Sending someone else your code or copying another person's code is **NOT OK**
 
 
-### How You Will Be Graded:
+#### How You Will Be Graded:
 
 * Quizzes:
 * Projects: 
 * Worksheets: (our we doing this?)
 * Current Events: 
 
-### Resources: 
+#### Resources: 
 * Download Scratch [here](http://scratch.mit.edu/scratch2download/).
+
 
