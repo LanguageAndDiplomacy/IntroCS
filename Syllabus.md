@@ -1,17 +1,3 @@
-### The Basics: 
-
-
-#### Instructors:
-* Erica Greene and Brian Papa (Co-teachers)
-* Andy Lei and Han Qiu (TA's)
-* Nancy Juca (Language and Diplomacy Teacher)
-
-**Class Email:** tealsteachers@gmail.com
-
-**Class Website:** something@github.io
-
-We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ? 
-
 ### What to Expect: 
 
 In this class, you will:
@@ -23,6 +9,18 @@ In this class, you will:
 Classes will revolve around learning or reviewing a couple of key topics (~15 minutes), and working on programming projects to apply those principles (~30 minutes).
 
 **No previous knowledge of computer science or programming is required.**
+
+#### Instructors:
+* Erica Greene and Brian Papa (Co-teachers)
+* Andy Lei and Han Qiu (TA's)
+* Nancy Juca (Language and Diplomacy Teacher)
+
+**Class Email:** tealsteachers@gmail.com
+
+**Class Website:** http://languageanddiplomacy.github.io/IntroCS/
+
+We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ? 
+
 
 ### Class Rules: 
 
@@ -36,7 +34,6 @@ Classes will revolve around learning or reviewing a couple of key topics (~15 mi
   - Telling someone exactly what to type is **NOT OK**
   - Sending someone else your code or copying another person's code is **NOT OK**
 
-* 
 
 ### How You Will Be Graded:
 
@@ -46,5 +43,5 @@ Classes will revolve around learning or reviewing a couple of key topics (~15 mi
 * Current Events: 
 
 ### Resources: 
-
+* Download Scratch [here](http://scratch.mit.edu/scratch2download/).
 
