@@ -6,10 +6,7 @@ Monday - Friday, 1st period
 * Andy Lei and Han Qiu (Teaching Assistants)
 * Nancy Juca (Language and Diplomacy Teacher)
 
-**Class Email:** tealsteachers@gmail.com
-
-**Class Website:** http://languageanddiplomacy.github.io/IntroCS/
-
+You can email us at tealsteachers@gmail.com and visit the class website at [http://languageanddiplomacy.github.io/IntroCS/](http://languageanddiplomacy.github.io/IntroCS/).
 
 #### What to Expect: 
 
@@ -28,12 +25,10 @@ We will be using a visual programming language called Scratch that was developed
 
 * **Cheating:** 
   - Looking up documentation online in **OK**
-  - rainstorming with a friend is **OK**
-  - Having your friend teach you a new trick is **OK**
+  - Brainstorming with a friend is **OK**
   - Having a friend type on your computer is **NOT OK**
   - Telling someone exactly what to type is **NOT OK**
   - Sending someone else your code or copying another person's code is **NOT OK**
-
 
 #### How You Will Be Graded:
 Your grade will be composed of four parts: homework, projects, quizzes and class participation. There will be weekly current event assignments and a quiz at the end of each unit. 
