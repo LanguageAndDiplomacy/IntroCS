@@ -1,20 +1,18 @@
-## Syllabus - Intro CS
-======
+# Syllabus - Introduction to Computer Science
+
 
 #### What to Expect: 
 
 In this class, you will:
 
 * **Learn** the basic programming concepts that are fundamental to being able to code in any language. 
-* **See** some beautiful applications of computing that have changed the world
-* **Discuss** current events related to technology
+* **See** some beautiful applications of computing that have changed the world.
+* **Discuss** current events related to technology.
 
-Classes will revolve around learning or reviewing a couple of key topics (~15 minutes), and working on programming projects to apply those principles (~30 minutes).
-
-**No previous knowledge of computer science or programming is required.**
+We will be using a visual programming language called Scratch that was developed at MIT. Classes will revolve around learning or reviewing a couple of key topics (~10 minutes), and working on programming projects to apply those principles (~30 minutes). You do not need your own compute and **no previous knowledge of computer science or programming is required.**
 
 #### Instructors:
-* Erica Greene and Brian Papa (Co-teachers)
+* Erica Greene and Brian Papa (Teachers)
 * Andy Lei and Han Qiu (TA's)
 * Nancy Juca (Language and Diplomacy Teacher)
 
@@ -22,8 +20,7 @@ Classes will revolve around learning or reviewing a couple of key topics (~15 mi
 
 **Class Website:** http://languageanddiplomacy.github.io/IntroCS/
 
-We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ? 
-
+We meet Monday - Friday during 1st period
 
 #### Class Rules: 
 
@@ -39,13 +36,10 @@ We meet Monday - Friday during 1st period (8:20 AM - 9:05 AM) in room ?
 
 
 #### How You Will Be Graded:
-
-* Quizzes:
-* Projects: 
-* Worksheets: (our we doing this?)
-* Current Events: 
+Your grade will be composed of four parts: homework, projects, tests and class participation. The standard school attendance policy applies. 
 
 #### Resources: 
-* Download Scratch [here](http://scratch.mit.edu/scratch2download/).
+* Download Scratch at [http://scratch.mit.edu/scratch2download](http://scratch.mit.edu/scratch2download) or use it online at [http://scratch.mit.edu/](http://scratch.mit.edu/). 
+* This course is being run through the TEALS program. You can learn more about TEALS at [http://www.tealsk12.org/](http://www.tealsk12.org/). 
 
 
