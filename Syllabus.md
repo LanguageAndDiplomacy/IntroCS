@@ -1,4 +1,14 @@
-# Syllabus - Introduction to Computer Science
+## Syllabus - Introduction to Computer Science
+Monday - Friday, 1st period
+
+#### Instructors:
+* Erica Greene and Brian Papa (Teachers)
+* Andy Lei and Han Qiu (TA's)
+* Nancy Juca (Language and Diplomacy Teacher)
+
+**Class Email:** tealsteachers@gmail.com
+
+**Class Website:** http://languageanddiplomacy.github.io/IntroCS/
 
 
 #### What to Expect: 
@@ -11,16 +21,6 @@ In this class, you will:
 
 We will be using a visual programming language called Scratch that was developed at MIT. Classes will revolve around learning or reviewing a couple of key topics (~10 minutes), and working on programming projects to apply those principles (~30 minutes). You do not need your own compute and **no previous knowledge of computer science or programming is required.**
 
-#### Instructors:
-* Erica Greene and Brian Papa (Teachers)
-* Andy Lei and Han Qiu (TA's)
-* Nancy Juca (Language and Diplomacy Teacher)
-
-**Class Email:** tealsteachers@gmail.com
-
-**Class Website:** http://languageanddiplomacy.github.io/IntroCS/
-
-We meet Monday - Friday during 1st period
 
 #### Class Rules: 
 
@@ -36,7 +36,7 @@ We meet Monday - Friday during 1st period
 
 
 #### How You Will Be Graded:
-Your grade will be composed of four parts: homework, projects, tests and class participation. The standard school attendance policy applies. 
+Your grade will be composed of four parts: homework, projects, tests and class participation. There will be weekly current event assignments. The standard school attendance policy applies. 
 
 #### Resources: 
 * Download Scratch at [http://scratch.mit.edu/scratch2download](http://scratch.mit.edu/scratch2download) or use it online at [http://scratch.mit.edu/](http://scratch.mit.edu/). 
