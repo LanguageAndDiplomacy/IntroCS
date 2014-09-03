@@ -28,7 +28,6 @@ We will be using a visual programming language called Scratch that was developed
   - Brainstorming with a friend is **OK**
   - Having a friend type on your computer is **NOT OK**
   - Telling someone exactly what to type is **NOT OK**
-  - Sending someone else your code or copying another person's code is **NOT OK**
 
 #### How You Will Be Graded:
 Your grade will be composed of four parts: homework, projects, quizzes and class participation. There will be weekly current event assignments and a quiz at the end of each unit. 
