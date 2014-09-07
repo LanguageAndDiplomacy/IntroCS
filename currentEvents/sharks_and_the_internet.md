@@ -4,4 +4,4 @@
 
 1. What is the problem and what is Google doing to try and solve it?
 2. Why is Google solving this problem and not the governments of the world?
-3. Check our the [Submarine Cable Map](http://www.submarinecablemap.com/). What is the name of the closest submarine cable to this school? Where does it go?
+3. Check our the [Submarine Cable Map](http://www.submarinecablemap.com/) (http://www.submarinecablemap.com/). What is the name of the closest submarine cable to this school? Where does it go?
