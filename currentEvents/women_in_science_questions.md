@@ -1,6 +1,8 @@
 ### Current Event Questions
 
-**Reading:** [Why Are There Still So Few Women in Science?](http://www.nytimes.com/2013/10/06/magazine/why-are-there-still-so-few-women-in-science.html?pagewanted=all) (pages 1 - 9)
+* **Reading:** [Why Are There Still So Few Women in Science?](http://www.nytimes.com/2013/10/06/magazine/why-are-there-still-so-few-women-in-science.html?pagewanted=all) (pages 1 - 9)
+* **Source**: The New York Times
+
 
 1. Summarize the first half of the article in 3-5 sentences
 2. What research has been done to measure intelligence using SAT scores? Do you think that is a good metric?
