@@ -1,6 +1,7 @@
 ### Current Event Questions
 
-**Reading:** [How the U.S. Lost Out on iPhone Work](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)(http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
+**Reading:** [How the U.S. Lost Out on iPhone Work](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
+**Source**: The New York Times
 
 
 1. What are four reasons Apple has factories in China instead of the US?
