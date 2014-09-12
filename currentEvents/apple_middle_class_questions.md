@@ -1,6 +1,7 @@
 ### Current Event Questions
 
 **Reading:** [How the U.S. Lost Out on iPhone Work](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
+
 **Source**: The New York Times
 
 
