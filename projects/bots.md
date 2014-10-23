@@ -7,37 +7,37 @@ Below is a list of the commands and actions you need to program it to understand
 
 #### Commands
 
-1. When the bot receives the command "switch", it will change costumes. If the bot receives "switch" again, it will change costumes back.
+1. When the bot receives the command **switch**, it will change costumes. If the bot receives "switch" again, it will change costumes back.
 
 
-2. When the bot receives the command "date", it will say the current date in for format "The current date is 10/20".
+2. When the bot receives the command **date**, it will say the current date in for format "The current date is 10/20".
 
 
 3. When the bot receives a number it likes, it will say "I like that number!". The bot likes whole numbers (e.g. 15 but not 15.8) that are between 100 and 200. (hint: there is one operator block that will be particularly useful when checking for whole numbers).
 
 
-4. When the bot receives the command "game", it will pick a random number between 1 and 100. It will continue to prompt the user to guess a number until
+4. When the bot receives the command **game**, it will pick a random number between 1 and 100. It will continue to prompt the user to guess a number until
 the user has guessed the correct number. If the user guesses the correct number, the bot should say "you win!". If the user guesses a number that is
 too small, the bot should tell the user to pick a larger number. If the user guesses a number that is too large, the bot should tell the user to pick a
 smaller number.
 
 #### Rubric
-1. "switch" (9 pts)
+1. **switch** (9 pts)
    - the costume switches when the user enters "switch" (3 pts)
    - there are only 2 costume (3 pts)
    - the costume continues to switch every time the user enters "switch" (3 pts)
 
-2. "date" (13 pts)
+2. **date** (13 pts)
    - the basic functionality works (8 pts)
    - the response is in the correct format (5 pts)
 
-3. numbers (16 pts)
+3. numbers it likes (16 pts)
    - the bot correctly identifies whole numbers (4 pts)
    - the bot correctly identifies numbers between 100 and 200 (4 pts)
    - the bot correctly identifies numbers it likes (4 pts)
    - the bot does not say "I like that number" for incorrect numbers (4 pts)
 
-4. "game" (26 pts)
+4. **game** (26 pts)
    - the bot starts the game on the "game" command (3 pts)
    - the bot picks a random number to guess between 1 and 100 (5 pts)
    - the bot prompts the user to guess a number after the game is started (3 pts)
