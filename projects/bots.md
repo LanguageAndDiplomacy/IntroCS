@@ -3,7 +3,7 @@
 For this project, you will program a space bot that communicates with humans through written commands. When it receives a commad it knows, it
 does some action. For example, when you say "hi", it will say hi back.
 
-Below is a list of the commands and actions you need to program it to understand. We wrote some started code for your bots that you can download [here]().
+Below is a list of the commands and actions you need to program it to understand. We wrote some started code for your bots that you can download [here](https://github.com/LanguageAndDiplomacy/IntroCS/blob/master/projects/bot/bot_starter.sb2?raw=true).
 
 ### Bot Commands
 
