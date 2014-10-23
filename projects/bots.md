@@ -5,7 +5,7 @@ does some action. For example, when you say "hi", it will say hi back.
 
 Below is a list of the commands and actions you need to program it to understand. We wrote some started code for your bots that you can download [here]().
 
-#### Commands
+### Bot Commands
 
 1. When the bot receives the command **switch**, it will change costumes. If the bot receives "switch" again, it will change costumes back.
 
@@ -21,7 +21,7 @@ the user has guessed the correct number. If the user guesses the correct number,
 too small, the bot should tell the user to pick a larger number. If the user guesses a number that is too large, the bot should tell the user to pick a
 smaller number.
 
-#### Rubric
+### Rubric (64 pts) 
 1. **switch** (9 pts)
    - the costume switches when the user enters "switch" (3 pts)
    - there are only 2 costume (3 pts)
