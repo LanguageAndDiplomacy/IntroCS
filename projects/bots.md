@@ -21,6 +21,8 @@ the user has guessed the correct number. If the user guesses the correct number,
 too small, the bot should tell the user to pick a larger number. If the user guesses a number that is too large, the bot should tell the user to pick a
 smaller number.
 
+Bonus. When the bot recieves the command **convert**, it will ask the user "What binary number should I convert to decimal?" The user then can enter binary number they wish, and the bot says what that binary number is in decimal.
+
 ### Rubric (64 pts) 
 1. **switch** (9 pts)
    - the costume switches when the user enters "switch" (3 pts)
@@ -43,3 +45,5 @@ smaller number.
    - the bot prompts the user to guess a number after the game is started (3 pts)
    - The bot correctly tells the user if his or her guess is correct, too high or too low (10 pts)
    - The bot waits to end the game until the user guesses the correct number (5 pts)
+    
+    
