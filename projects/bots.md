@@ -45,5 +45,6 @@ Bonus. When the bot recieves the command **convert**, it will ask the user "What
    - the bot prompts the user to guess a number after the game is started (3 pts)
    - The bot correctly tells the user if his or her guess is correct, too high or too low (10 pts)
    - The bot waits to end the game until the user guesses the correct number (5 pts)
-    
+
+5. **convert** (BONUS up to 10 pts)
     
