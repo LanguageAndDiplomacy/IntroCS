@@ -36,7 +36,7 @@ Complete the bubble sort algorithm. Your code should repeat steps 1-3 until it d
 
 On each iteration, change to the next backdrop so the backdrop displays the iteration number. When the list is sorted, change the background to `party`.
 
-![sorted party](sorted_party.png)
+![](sorted_party.png =100px)
 
 # Part 5 -- Style (10 points)
 - Variables have meaningful names.
