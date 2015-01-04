@@ -15,7 +15,7 @@ The bubble sort algorithm is as follows:
 #### Due: end of class Tuesday, January 20th to tealsteachers@gmail.com
 
 # Part 1 -- Starter Code (5 points)
-Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2). 
+Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2).
 
 You will be writing all of your code in the Stage. Check out the code that is already in the Stage script area before you start adding your own code.
 
@@ -36,6 +36,8 @@ Complete the bubble sort algorithm. Your code should repeat steps 1-3 until it d
 
 On each iteration, change to the next backdrop so the backdrop displays the iteration number. When the list is sorted, change the background to `party`.
 
+![sorted party](sorted_party.png)
+
 # Part 5 -- Style (10 points)
 - Variables have meaningful names.
 - There are no unused blocks on the screen.
@@ -43,9 +45,9 @@ On each iteration, change to the next backdrop so the backdrop displays the iter
 - You only have one `When space key pressed` block.
 
 # Extra Credit -- Insertion Sort (10 points)
-[Insertion Sort](http://en.wikipedia.org/wiki/Insertion_sort) is another sorting algorithm. The extra credit is to implement insertion sort in Scratch.
+The extra credit is to implement the [Insertion Sort](http://en.wikipedia.org/wiki/Insertion_sort) algorithm.
 
-**Do not change your working bubble sort code.**  Instead, re-download the [starter code](bubble_sort_starter.sb2) and save the file as `insertion_sort`.
+**Do not change your working bubble sort code.**  Instead, re-download the [starter code](bubble_sort_starter.sb2) and save the file as insertion_sort.sb2.
 
 The insertion sort algorithm is as follows:
 
