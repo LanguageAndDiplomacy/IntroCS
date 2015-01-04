@@ -15,7 +15,7 @@ The bubble sort algorithm is as follows:
 #### Due: end of class Tuesday, January 20th to tealsteachers@gmail.com
 
 # Part 1 -- Starter Code (5 points)
-Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2).
+Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2). (<--- Right click and download).
 
 You will be writing all of your code in the Stage. Check out the code that is already in the Stage script area before you start adding your own code.
 
