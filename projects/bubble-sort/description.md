@@ -1,6 +1,8 @@
 #Project 4: Bubble Sort
 The purpose of this project is to implement an algorithm by yourself. You will be coding the bubble sort algorithm, which is a classic computer science algorithm for sorting lists. Along the way, you will practice using lists and building your own blocks.
 
+#### Due: end of class Tuesday, January 20th to tealsteachers@gmail.com
+
 The bubble sort algorithm is as follows:
 
 1. Loop over the items in the list.
@@ -11,8 +13,6 @@ The bubble sort algorithm is as follows:
 ![bubble sort](Bubble-sort-example.gif)
 
 (image via [Wikipedia](http://en.wikipedia.org/wiki/Bubble_sort))
-
-#### Due: end of class Tuesday, January 20th to tealsteachers@gmail.com
 
 # Part 1 -- Starter Code (5 points)
 Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2). (<--- Right click and download).
