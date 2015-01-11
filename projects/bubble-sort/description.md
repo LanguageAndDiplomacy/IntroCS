@@ -26,7 +26,7 @@ For example, if `letters = [A, C, D, E, B]` then executing the block `swap index
 
 At the end of the swap block code, call the block `update letters` and wait 1 second (the `wait` block is in the Control category).
 
-# Part 3 - One Iteration (15 pts)
+# Part 3 -- One Iteration (15 pts)
 Implement one iteration of bubble sort when the space bar is pressed. That means your code should loop over the list `letters` once and swap any consecutive items that are not in the correct order.
 
 For example, if `letters = [E, B, A, C, D]` then after one iteration, `letters` should be `[B, A, C, D, E]`
