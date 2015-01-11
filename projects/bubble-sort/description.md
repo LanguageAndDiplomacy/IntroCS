@@ -15,7 +15,7 @@ The bubble sort algorithm is as follows:
 (image via [Wikipedia](http://en.wikipedia.org/wiki/Bubble_sort))
 
 # Part 1 -- Starter Code (5 points)
-Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2). (<--- Right click and download).
+Download the starter code from the [bubble sort starter code](bubble_sort_starter.sb2). (<--- Click "View Raw" to download).i
 
 You will be writing all of your code in the Stage. Check out the code that is already in the Stage script area before you start adding your own code.
 
@@ -54,7 +54,7 @@ The insertion sort algorithm is as follows:
 1. Assume that the first element is "sorted." This starts the sorted section of your list.
 1. Look at the next item and find where is belongs in the sorted list section.
 1. Shift all other items down and insert the current item into the correct spot in the sorted section.
-1. Repeat steps 1 and 2 until you have incerted every item in the list.
+1. Repeat steps 1 and 2 until you have inserted every item in the list.
 
 ![insertion sort](Insertion-sort-example.gif)
 
