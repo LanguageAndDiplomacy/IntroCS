@@ -19,8 +19,8 @@ Download the starter code from the [bubble sort starter code](bubble_sort_starte
 
 You will be writing all of your code in the Stage. Check out the code that is already in the Stage script area before you start adding your own code.
 
-# Part 2 -- Add a Swap Block (15 pts)
-Create a new block for the Stage that is called `swap index [x] with index [y]`. The block takes in two integers, `x` and `y`, and swaps the items in list `letters` at those positions.
+# Part 2 -- Write the Swap Block (15 pts)
+On the Stage, there is a block that is called `swap index [x] with index [y]`. The block has a definition, but you must fill it out. The block takes in two integers, `x` and `y`, and swaps the items in list `letters` at those positions.
 
 For example, if `letters = [A, C, D, E, B]` then executing the block `swap index [1] with index [3]` will change `letters` to `[D, C, A, E, B]`.
 
