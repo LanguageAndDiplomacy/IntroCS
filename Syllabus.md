@@ -3,7 +3,7 @@ Monday - Friday, 1st period
 
 #### Instructors:
 * Erica Greene and Brian Papa (Teachers)
-* Andy Lei and Han Qiu (Teaching Assistants)
+* Andy Lei (Teaching Assistants)
 * Nancy Juca (Language and Diplomacy Teacher)
 
 You can email us at tealsteachers@gmail.com and visit the class website at [http://languageanddiplomacy.github.io/IntroCS/](http://languageanddiplomacy.github.io/IntroCS/).
