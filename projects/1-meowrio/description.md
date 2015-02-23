@@ -2,7 +2,7 @@
 The purpose of this project is to familiarize yourself with Scratch by implementing a simplified version of Super Mario Bros. You will write a program to move the Scratch Cat (Meow-rio!) around a level, jump, and hit a coin block.
 
 #Due
-End of Class Monday, September 22 to tealsteachers@gmail.com
+End of Class Monday, March 2 to tealsteachers@gmail.com
 
 #Part 1: Setup (5)
 - Place the provided coin block sprite and backdrop on the stage. (5)
