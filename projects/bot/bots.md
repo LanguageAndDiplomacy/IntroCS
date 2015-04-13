@@ -33,7 +33,7 @@ smaller number.
    - the basic functionality works (8 pts)
    - the response is in the correct format (5 pts)
 
-3. numbers it likes (16 pts)
+3. **numbers it likes** (16 pts)
    - the bot correctly identifies whole numbers (4 pts)
    - the bot correctly identifies numbers between 100 and 200 (4 pts)
    - the bot correctly identifies numbers it likes (4 pts)
