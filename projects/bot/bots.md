@@ -47,4 +47,6 @@ smaller number.
    - The bot waits to end the game until the user guesses the correct number (5 pts)
 
 5. **convert** (BONUS up to 20 pts)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/UmJMlxQdCHM" frameborder="0" allowfullscreen></iframe>
     
