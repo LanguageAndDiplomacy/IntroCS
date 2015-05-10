@@ -23,7 +23,7 @@ There is a bus to travel in between parts of the city (there is no subway sprite
 Add the "lamp" sprite. When the avatar touches the lamp, the lamp should say "goodnight". It is now the next day. The player also gets an allowance of 2 dollars per day. When the user clicks the flag button to start the program, the avatar should show up here as the initial location. (5 points)
 
 #Part 3: Canvas (15 points)
-<img src="school.png">
+<img src="canvas.png">
 
 Add the "gobo" sprite. When the avatar touches it, gobo asks what polygon to draw and of what size. Use the "draw polygon with number of sides length" that you created in class recently.
 
