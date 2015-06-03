@@ -10,5 +10,5 @@ The project is a one-page specification describing a software product: either a 
 
 - A description and pseudocode of how you'd apply a concept learned in Intro to Comp Sci (such as a loop, or sorting) to solve a problem in your program.
 
-I've included a sample specification for a simple timer app. Only those that complete all four parts will be eligible. Submissions will be due by June 12, and we'll announce the winner on the last day of class, Monday June 15. Good luck!
+[Here is a sample specification for a simple timer app](https://github.com/LanguageAndDiplomacy/IntroCS/blob/master/projects/Specification%20Description.pdf). Only those that complete all four parts will be eligible. Submissions will be due by June 12, and we'll announce the winner on the last day of class, Monday June 15. Good luck!
 
