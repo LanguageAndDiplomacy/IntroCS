@@ -2,9 +2,11 @@
 Monday - Friday, 1st period
 
 #### Instructors:
-* Erica Greene and Brian Papa (Teachers)
-* Andy Lei (Teaching Assistants)
 * Nancy Juca (Language and Diplomacy Teacher)
+* Robert Coe
+* Joshua Shor
+* Madhuvanthi Jayakumar
+* Andy Lei
 
 You can email us at tealsteachers@gmail.com and visit the class website at [http://languageanddiplomacy.github.io/IntroCS/](http://languageanddiplomacy.github.io/IntroCS/).
 
@@ -18,16 +20,19 @@ In this class, you will:
 
 We will be using a visual programming language called Scratch that was developed at MIT. Classes will revolve around learning or reviewing a couple of key topics (~10 minutes), and working on programming projects to apply those principles (~30 minutes). **You will not need your own computer and no previous knowledge of programming is required.**
 
+**Notebook:** You will need a notebook to keep notes. Take good notes because all the tests are open notes!
 
 #### Class Rules: 
 
-* **Attendance:** Lessons will be taught at the beginning of class so **please be on time**! The standard school attendance policy applies. 
+* **Attendance:** Lessons will be taught at the beginning of class so **please be on time**! The standard school attendance policy applies.
 
 * **Cheating:** 
   - Looking up documentation online in **OK**
   - Brainstorming with a friend is **OK**
   - Having a friend type on your computer is **NOT OK**
   - Telling someone exactly what to type is **NOT OK**
+
+* **Electronic Devices:** If we see phones, ipod, or anything other than classroom laptops, we will take them away from you.
 
 #### How You Will Be Graded:
 Your grade will be composed of four parts: homework, projects, quizzes and class participation. There will be weekly current event assignments and a quiz at the end of each unit. 
